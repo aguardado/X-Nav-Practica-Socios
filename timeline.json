@@ -1,0 +1,22 @@
+{
+	"Mensajes":[
+		{"autor": "Sheldon ",
+		"avatar": "images/sheldon.jpg",
+		"titulo": "Juguemos",
+		"contenido": "Tijeras cortan papel, papel cubre a piedra, piedra aplasta lagarto, lagarto envenena a Spock",
+		"fecha": "27/04/2016"},
+
+		{"autor": "Howard ",
+		"avatar": "images/howard.jpg",
+		"titulo": "Rompecorazones",
+		"contenido": "En este último mes he tenido como ocho citas, doce si cuento las que aparecieron y se marcharon.",
+		"fecha": "27/04/2016"},
+
+		{"autor": "Leonard",
+		"avatar": "images/leonard.jpg",
+		"titulo": "Guru de belleza",
+		"contenido": "Es Darth Vader champú... Luke Skywalker es acondicionador",
+		"fecha": "27/04/2016"}
+	]
+
+}

@@ -1,0 +1,16 @@
+{
+	"Mensajes":[
+		{"autor": "Sheldon ",
+		"avatar": "images/sheldon.jpg",
+		"titulo": "Un buen dia",
+		"contenido": "Estaba tan contento. En el mundo de los emoticones hubiera sido una D mayúscula",
+		"fecha": "27/04/2016"},
+
+		{"autor": "Leonard ",
+		"avatar": "images/leonard.jpg",
+		"titulo": "fisicos!",
+		"contenido": "No necesitamos fuerza, somos físicos... Somos los descendientes intelectuales de Arquímedes.",
+		"fecha": "27/04/2016"}
+	]
+
+}

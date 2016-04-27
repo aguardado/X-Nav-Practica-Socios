@@ -1,0 +1,22 @@
+{
+	"Mensajes":[
+		{"autor": "Alba ",
+		"avatar": "images/me.jpg",
+		"titulo": "skype",
+		"contenido": "Alguien por aqui?",
+		"fecha": "27/04/2016"},
+
+		{"autor": "Alba ",
+		"avatar": "images/me.jpg",
+		"titulo": "musica",
+		"contenido": "Hay un nuevo concierto este fin de semana!",
+		"fecha": "27/04/2016"},
+
+		{"autor": "Alba ",
+		"avatar": "images/me.jpg",
+		"titulo": "retiro",
+		"contenido": "A patinar!",
+		"fecha": "27/04/2016"}
+	]
+
+}
